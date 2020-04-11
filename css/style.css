@@ -1,0 +1,12 @@
+h3 {
+  font-family: "Poppins", sans-serif;
+}
+
+#arrow {
+  padding-left: 18rem;
+  margin: 10rem;
+}
+
+.fa-chevron-right {
+  color: green;
+}
